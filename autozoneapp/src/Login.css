@@ -1,0 +1,45 @@
+.labelStyle{
+    width: 60px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    padding: 50px;
+    margin: auto;
+    
+    
+
+}
+div.loginDiv{
+    margin: auto;
+    padding: 50px;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    vertical-align: middle;
+
+}
+#loginbtn{
+    width: 180px;
+    height: 30px;
+    padding: 15px,18px,15px,18px;
+    border-radius: 8px;
+    background-color: coral;
+    color: black;
+    align-content: center;
+    display: block;
+    margin: auto;
+
+}
+.loginbtn:hover{
+    background-color: blanchedalmond;
+}
+.inputcls{
+    border: 1.5px solid;
+    text-align: center;
+    width: 180px;
+    height: 30px;
+    cursor: auto;
+    
+}
+
